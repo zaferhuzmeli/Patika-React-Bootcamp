@@ -1,0 +1,14 @@
+{
+  "name": "Patika-React-Bootcamp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/zaferhuzmeli/Patika-React-Bootcamp.git",
+  "author": "zafer hüzmeli <zaferhuzmeli@yahoo.com.tr>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^8.8.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0"
+  }
+}
